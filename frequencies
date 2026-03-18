@@ -1,0 +1,26 @@
+Word,POS,#BlackTwitter 2020,#Black Twitter 2023,#Black Twitter 2025,#GenZ 2020,#GenZ 2023,#Genz 2025
+tea,noun,86,39,63,17,19,79
+shade,noun,50,27,25,5,6,12
+bae,noun,90,23,40,2,3,2
+simp,noun,30,37,5,13,5,16
+COUNTS,NOUNS,256,126,133,37,33,109
+25vs20,,,,0.51953125,,,2.945945946
+,,,,,,,
+playin,verb,21,14,12,1,4,1
+tryna,verb,178,131,36,10,8,22
+trynna,verb,62,7,2,4,1,12
+COUNTS,VERBS,261,152,50,15,13,35
+25vs20,,,,0.1915708812,,,2.333333333
+,,,,,,,
+dope,adjective,234,74,24,9,5,12
+lit,adjective,62,9,36,16,7,10
+grown,adjective,47,111,28,10,1,8
+Counts,,343,194,88,35,13,30
+,,,,0.5957446809,,,0.8
+,,,,,,,
+OtherCategories,,,,,,,
+boi,"noun, interjection/discourseMarker",34,14,4,4,11,10
+COUNTS,,,,,,,
+periodt,discourse marker,82,10,7,6,5,2
+dis,determiner,74,33,22,5,19,12
+ion,AUX,48,20,7,1,1,1
