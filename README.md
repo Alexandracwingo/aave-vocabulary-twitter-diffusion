@@ -26,7 +26,7 @@ How do different types of AAVE words (e.g., nouns vs. verbs, structurally tied v
   * Of the observed words, adjectives(only slighter more than nouns) had the highest use retention in #BlackTwitter after five years
   * Across all parts of speech, #BlackTwitter usage frequencies declined
   * #GenZ frequencies of nouns and verbs grew during the five-year interval, while adjective use declined after 5 years
-- Frequenices of word usages can be seen in `frequenices.csv`
+- Frequenices of word usages can be seen in `Frequencies.xlsx`
 ## Scripts
 - `unique_tweets.py`: python script created by ChatGBT to create corpuses of tweet texts from the .json files, removing duplicates and counting unique tweets
 - `unique_ids.py`: - `unique_tweets.py`: python script created by ChatGBT to create corpuses of tweet ids to enable publication of tweet data extracted from the .json files while respecting twitter privacy rules
