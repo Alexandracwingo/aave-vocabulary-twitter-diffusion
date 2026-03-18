@@ -43,7 +43,7 @@ Encyclopedia of Linguistics (2nd ed.). Oxford University Press.*
 
 
 ## Corpuses 
-- In total, 32,022 tweets were collected throughout the process, but not all data was used in the statistical analysis described above
+- In total, 32,022 tweets were collected throughout the process (corpus of tweet ids can be found in `idCorpuses` folder), but not all data was used in the statistical analysis described above
 - Three corpuses of data were created from #BlackTwitter tweets, corresponding to each year that was examined (#BlackTwitter2025, #BlackTwitter2023, #BlackTwitter2025)
 - Three corpuses of data were created from #GenZ, corresponding to each year that was examined (#GenZ2025, #GenZ, #GenZ)
 - An additional corpus containint the tweeet IDs for data scraped for the project, that helped confirm the vocabulary term's connection to AAVE and the decision to use #GenZ over other hashtags that were considered like #StanTwt, #StanTwitter, and #tiktok.  
